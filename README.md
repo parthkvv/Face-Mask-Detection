@@ -25,6 +25,8 @@ Models for Face mask detection :
                     
                     Model implementation - BKNetMultitask/BKNetStyle.py
 
+![mask](https://user-images.githubusercontent.com/56112545/189886063-7847274c-c344-4454-a322-9619587f302b.png)
+
 ## References
 The following papers and code were used for this project
 
