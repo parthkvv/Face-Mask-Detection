@@ -24,8 +24,6 @@ Models for Face mask detection :
                     Evaluation - BKNetMultitask/BKNet_multitask_evaluate.ipynb
                     
                     Model implementation - BKNetMultitask/BKNetStyle.py
-                    
-Data processing: Data Pre-processing.ipynb
 
 ## References
 The following papers and code were used for this project
